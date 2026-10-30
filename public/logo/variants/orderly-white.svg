@@ -1,0 +1,7 @@
+<svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title"><title>Orderly logo</title>
+  <title id="title">Orderly Logo</title>
+  <g id="symbol">
+    <path fill="#ffffff" d="M 224 128 A 96 96 0 1 1 128 32 V 76 A 52 52 0 1 0 180 128 H 224 Z" />
+    <circle fill="#ffffff" cx="188" cy="68" r="28" />
+  </g>
+</svg>

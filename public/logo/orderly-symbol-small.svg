@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">Orderly Favicon</title>
+  <g id="symbol">
+    <path fill="#FFFFFF" d="M 228 128 A 100 100 0 1 1 128 28 V 80 A 48 48 0 1 0 176 128 H 228 Z" />
+    <circle fill="#49D3B4" cx="190" cy="66" r="32" />
+  </g>
+</svg>

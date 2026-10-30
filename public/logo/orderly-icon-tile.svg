@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">Orderly Icon</title>
+  <rect x="0" y="0" width="256" height="256" rx="56" fill="#102A43" />
+  <g id="symbol">
+    <path fill="#FFFFFF" d="M 208 128 A 80 80 0 1 1 128 48 V 86 A 42 42 0 1 0 170 128 H 208 Z" />
+    <circle fill="#49D3B4" cx="178" cy="78" r="25" />
+  </g>
+</svg>

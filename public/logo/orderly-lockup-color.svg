@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 256" width="960" height="256" role="img" aria-labelledby="title">
+  <title id="title">Orderly</title>
+  <g id="symbol">
+    <path fill="#102A43" d="M 224 128 A 96 96 0 1 1 128 32 V 76 A 52 52 0 1 0 180 128 H 224 Z" />
+    <circle fill="#49D3B4" cx="188" cy="68" r="28" />
+  </g>
+  <g id="wordmark" fill="#102A43">
+    <path fill-rule="evenodd" d="M 320 78 A 50 50 0 1 1 320 178 A 50 50 0 1 1 320 78 Z M 320 100 A 28 28 0 1 0 320 156 A 28 28 0 1 0 320 100 Z" />
+    <path fill-rule="evenodd" d="M 390 78 H 430 A 32 32 0 0 1 446 139.7 L 468 161.7 V 178 H 445 L 420 153 H 412 V 178 H 390 V 78 Z M 412 99 V 121 H 429 A 11 11 0 0 0 429 99 H 412 Z" />
+    <path fill-rule="evenodd" d="M 488 78 H 524 A 50 50 0 0 1 524 178 H 488 V 78 Z M 510 100 V 156 H 523 A 28 28 0 0 0 523 100 H 510 Z" />
+    <path d="M 592 78 H 658 V 99 H 614 V 117 H 650 V 138 H 614 V 157 H 658 V 178 H 592 V 78 Z" />
+    <path fill-rule="evenodd" d="M 678 78 H 718 A 32 32 0 0 1 734 139.7 L 756 161.7 V 178 H 733 L 708 153 H 700 V 178 H 678 V 78 Z M 700 99 V 121 H 717 A 11 11 0 0 0 717 99 H 700 Z" />
+    <path d="M 776 78 H 798 V 157 H 838 V 178 H 776 V 78 Z" />
+    <path d="M 846 78 H 868 L 888 98 L 908 78 H 930 V 88 L 899 119 V 178 H 877 V 119 L 846 88 V 78 Z" />
+  </g>
+</svg>
