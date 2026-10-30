@@ -2,7 +2,9 @@
 
 โปรเจกต์พัฒนาหน้า **ติดตามออเดอร์ (Order Tracking Page)** ด้วย **Next.js (App Router)**, **TypeScript** และ **Tailwind CSS** โดยต่อยอดจากต้นแบบดีไซน์ **Figma Make** และยกระดับประสบการณ์ใช้งาน (UI/UX, Accessibility, Visual Hierarchy, States, Brand Identity) ด้วยแนวทางจาก **UI/UX Pro Max** และ **Logo Design Skill**
 
-## ลิงก์การออกแบบ UI (Figma Design Link)
+## ลิงก์ผลงานและการออกแบบ (Project & Design Links)
+- **Live Demo (Vercel)**: [https://orderly-seven-ashen.vercel.app/](https://orderly-seven-ashen.vercel.app/)
+- **Source Code Repository (GitHub)**: [https://github.com/IAMAOD/Orderly](https://github.com/IAMAOD/Orderly)
 - **Figma UI Design (Desktop & Mobile)**: [หน้าติดตามสถานะออเดอร์ (Figma Make)](https://www.figma.com/make/xqIVhMVWt8TtVJaCvlUAPi/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C?p=f&t=TGda4xTxjWQJyAyV-0)
   - URL เต็ม: `https://www.figma.com/make/xqIVhMVWt8TtVJaCvlUAPi/หน้าติดตามสถานะออเดอร์?p=f&t=TGda4xTxjWQJyAyV-0`
 
